@@ -1,2 +1,0 @@
-# Sampleproject
-Sample project
