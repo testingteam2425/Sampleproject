@@ -7,5 +7,6 @@ public class CommandLineArgs {
 		args[1]="20";
 
 		System.out.println("args[0]+args[1]");
+		System.out.println("Tests");
 	}
 }
