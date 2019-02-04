@@ -10,7 +10,10 @@ public class StringReverse {
 			s2=s2+c;
 			
 		}
+		
+		
 		System.out.println("the string is "+s2);
+		System.out.println("hiiiiiiiii");
 	}
 
 }
